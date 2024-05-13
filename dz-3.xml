@@ -1,0 +1,25 @@
+<student>
+  <name>Roman</name>
+  <surname>Polonchuk</surname>
+  <age>27</age>
+  <gender>male</gender>
+  <address>
+    <city>Kyiv</city>
+    <street>Akademika Biletskogo</street>
+    <house>9B</house>
+    <apartment>77</apartment>
+  </address>
+  <subjects>
+    <subject>mathematics</subject>
+    <subject>history</subject>
+    <subject>ukrainian</subject>
+    <subject>english</subject>
+  </subjects>
+  <average_point>4</average_point>
+  <student_active>true</student_active>
+  <birth_date>1996-07-30</birth_date>
+  <contacts>
+    <phone>380664988263</phone>
+    <email>rpolonchuk@portmone.me</email>
+  </contacts>
+</student>
