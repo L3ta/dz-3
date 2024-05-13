@@ -6,7 +6,7 @@
    "address": {
      "city": "Kyiv",
      "street": "Akademika Biletskogo",
-     "house": 9B,
+     "house": 9,
      "apartment": 77
    },
    "subjects": ["mathematics", "history", "ukrainian", "english"],
